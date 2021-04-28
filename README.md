@@ -13,7 +13,7 @@ Este proyecto esta desarrollado en ReactJS
 ## Como jugar?
 Para iniciar - pulsa [Iniciar Juego Nuevo] en el centro del tablero. Para resetear el tablelro y volver a comenzar el juego pulsa Reiniciar que esta arriba a la derecha.
 
-##Estructura del Proyecto
+## Estructura del Proyecto
 Después de la creación, el proyecto se verá así:
 ```
 la-carpeta-de-esta-aplicación/
@@ -62,7 +62,7 @@ la-carpeta-de-esta-aplicación/
   package.json
   README.md  
 ```
-##Diseño Responsivo 
+## Diseño Responsivo 
 Telefonos, Tablets, Notbooks y Desktops. <br> <hr>
 
 By: https://github.com/Aziaev/battleships
